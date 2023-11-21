@@ -1,9 +1,9 @@
-### Olá! Este é meu repositório de Data Science e estudos. 😁
+### Olá! Este é meu repositório de Data Science, Risk e Quant, e outros estudos. 😁
 
 Informações sobre mim:
 
-- 🤓 Sou estudante de Matemática Aplicada e Computacional na Unicamp.
-- 🎲 Faço iniciação científica em Machine Learning.
-- ⚡ Estudo Ciência de Dados e Machine Learning.
-- ⌨️ Tenho experiência com linguagem Python, SQL e Excel.
+- 🤓 Sou estudante de Matemática Aplicada e Computacional e Ciência de Dados.
+- 🎲 Fiz iniciação científica em Machine Learning sobre prever ações da B3.
+- ⚡ Estudo Machine Learning, Risco, Análise Quantitativa e um pouco de Trading.
+- ⌨️ Tenho experiência com Python, R, C, C++, SAS, SQL e Excel.
 - 📫 Para contato: jackelinegleme@gmail.com
