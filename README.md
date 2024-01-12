@@ -4,6 +4,6 @@ Informações sobre mim:
 
 - 🤓 Sou estudante de Matemática Aplicada e Computacional e Ciência de Dados.
 - 🎲 Fiz iniciação científica em Machine Learning sobre prever ações da B3.
-- ⚡ Estudo Machine Learning, Risco, Análise Quantitativa e um pouco de Trading.
+- ⚡ Estudo Machine Learning, Modelagem de Risco e Análise Quantitativa
 - ⌨️ Tenho experiência com Python, R, C, C++, SAS, SQL e Excel.
 - 📫 Para contato: jackelinegleme@gmail.com
