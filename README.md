@@ -24,25 +24,17 @@ Além disso, aplico técnicas de machine learning para explorar novas abordagens
 
 🛠️ **Tecnologias e Ferramentas**
 
-Linguagens: Python, PySpark, R, MATLAB, C, C++;
-
-Machine Learning: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
-
-Quantitative Tools: NumPy, SciPy, pandas e statsmodels;
-
-DevOps: Git, Docker e Airflow;
-
-Data Visualization: Matplotlib, Seaborn e Plotly;
-
-Bases de Dados: SQL;
-
-Cloud: AWS.
+* Linguagens: Python, PySpark, R, MATLAB, C, C++;
+* Machine Learning: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
+* Quantitative Tools: NumPy, SciPy, pandas e statsmodels;
+* DevOps: Git, Docker e Airflow;
+* Data Visualization: Matplotlib, Seaborn e Plotly;
+* Bases de Dados: SQL;
+* Cloud: AWS.
 
 📫 **Contato**
 
-LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jackeline-gregorio/)
-
-E-mail: jackelinegleme@gmai.com
-
-Medium: [Artigos](https://medium.com/@jackelinegleme)
+* LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jackeline-gregorio/)
+* E-mail: jackelinegleme@gmai.com
+* Medium: [Artigos](https://medium.com/@jackelinegleme)
 
