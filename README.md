@@ -1,7 +1,5 @@
 ✨ Olá, sou a Jackeline!
 
-Machine Learning | Modelagem Quantitativa | Risco Quantitativo | Dev Quant
-
 🔍 **Sobre mim**
 
 Sou entustiasta em modelagem quantitativa, com experiência em modelagem de riscos, machine learning e matemática aplicada. Minha atuação combina técnicas tradicionais de desenvolvimento quantitativo para resolver problemas complexos em finanças e risco.
