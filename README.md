@@ -46,5 +46,5 @@ LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jackeline-gregorio/)
 
 E-mail: jackelinegleme@gmai.com
 
-Medium: [Artigos sobre Modelagem Quantitativa](https://medium.com/@jackelinegleme)
+Medium: [Artigos](https://medium.com/@jackelinegleme)
 
