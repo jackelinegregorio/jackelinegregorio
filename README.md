@@ -1,40 +1,45 @@
-✨ Olá, sou a Jackeline!
+✨ Hi, I'm Jackeline
 
-🔍 **Sobre mim**
+🔍 **About me**
 
-Sou entustiasta em modelagem quantitativa, com experiência em modelagem de riscos, machine learning e matemática aplicada. Minha atuação combina técnicas tradicionais de desenvolvimento quantitativo para resolver problemas complexos em finanças e risco.
+I am a **Data Scientist working at the intersection of AI/ML, model governance, and quantitative risk** in **regulated financial environments**.
 
-🎓 **Formação**
+I am an undergraduate student in **Applied and Computational Mathematics** at the **University of São Paulo (USP)**, with a strong foundation in **mathematics, statistics and computational methods**.
 
-* Matemática Aplicada e Computacional (USP);
-* Ciência de Dados (Estácio).
+🔬 Focus Areas
 
-💼 **Experiência Profissional**
+- **Model Governance & Model Risk Management**
+  - Methodological frameworks for statistical models, ML models (supervised & unsupervised), and Generative AI
+  - Validation criteria, technical metrics, and lifecycle governance
 
-Atualmente trabalho na B3 com modelagem de riscos, desenvolvendo e implementando modelos quantitativos tradicionais, baseados em métodos matemáticos e estatísticos robustos. Meu foco está na análise e gestão de riscos, utilizando técnicas avançadas de modelagem para otimizar decisões e processos.
+- **Machine Learning & MLOps**
+  - End-to-end ML pipelines with reproducibility, monitoring, and compliance
+  - Integration of ML models into governed and scalable systems
 
-Além disso, aplico técnicas de machine learning para explorar novas abordagens e enriquecer as práticas tradicionais de modelagem quantitativa. Estou ampliando minha expertise na integração de ferramentas de engenharia de dados, como GitHub e Airflow, para automatizar e escalonar pipelines de dados e processos analíticos.
+- **Quantitative Risk**
+  - Risk metrics and methodologies (VaR, CVaR, stress testing)
+  - Model validation and regulatory alignment
 
-🚀 **Minhas Áreas de Interesse**
+## 🛠️ Technologies & Tools
 
-* Matemática Aplicada: Solução de problemas reais usando técnicas matemáticas e computacionais avançadas;
-* Machine Learning: Aplicação de algoritmos de aprendizado de máquina para classificação, predição e otimização de problemas quantitativos;
-* Risco Quantitativo: Desenvolvimento de métricas e modelos de risco, incluindo VaR, CVaR e stress testing;
-* Quantitative Development: Desenvolvimento de modelos matemáticos e estatísticos para mercados financeiros e gestão de riscos.
+- **Programming**: Python, PySpark, R, MATLAB, C, C++
+- **ML / AI**: scikit-learn, TensorFlow, PyTorch
+- **Quant & Statistics**: NumPy, SciPy, pandas, statsmodels
+- **MLOps / Data Engineering**: Git, Docker, Apache Airflow
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Databases**: SQL
+- **Cloud**: AWS
 
-🛠️ **Tecnologias e Ferramentas**
+## 📌 Selected Topics in This Repository
 
-* Linguagens: Python, PySpark, R, MATLAB, C, C++;
-* Machine Learning: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
-* Quantitative Tools: NumPy, SciPy, pandas e statsmodels;
-* DevOps: Git, Docker e Airflow;
-* Data Visualization: Matplotlib, Seaborn e Plotly;
-* Bases de Dados: SQL;
-* Cloud: AWS.
+This GitHub profile showcases projects related to:
+- Model governance and validation frameworks;
+- Quantitative risk modeling;
+- Machine learning and MLOps practices in regulated environments;
+- Methodological research and applied quantitative studies.
 
-📫 **Contato**
+📫 **Contact**
 
-* LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jackeline-gregorio/)
-* E-mail: jackelinegleme@gmai.com
-* Medium: [Artigos](https://medium.com/@jackelinegleme)
+* LinkedIn: [Profile](https://www.linkedin.com/in/jackeline-gregorio/)
+* Medium: [Articles](https://medium.com/@jackelinegleme)
 
