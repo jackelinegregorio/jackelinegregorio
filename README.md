@@ -28,7 +28,7 @@ I am an undergraduate student in **Applied and Computational Mathematics** at th
 - **MLOps / Data Engineering**: Git, Docker, Apache Airflow
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: SQL
-- **Cloud**: AWS
+- **Cloud**: AWS and Azure
 
 ## 📌 Selected Topics in This Repository
 
